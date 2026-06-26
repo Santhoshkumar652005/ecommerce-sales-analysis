@@ -21,7 +21,8 @@ Analyzed the Brazilian E-Commerce Public Dataset by Olist to uncover sales trend
 - Payment Distribution
 - Customer State Analysis
 - Revenue by Payment Type
+- Most Ordered Items
 
 ## Dataset
-Brazilian E-Commerce Public Dataset by Olist
+Brazilian E-Commerce Public Dataset by Olist 
 
